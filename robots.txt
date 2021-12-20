@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap:http://www.ts3030.cn/sitemap.xml
